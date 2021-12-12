@@ -149,6 +149,119 @@
             </ul>
         </div>
     </nav>
+ 
+    <div class="container">
+                       <center> <h4 class="font-italic mb-4">Herramientas</h4><center>
+                        <div class="card-deck">
+                                <div class="card">
+                                    <img class="card-img-top" src="https://image.slidesharecdn.com/tema2-110515055424-phpapp01/95/maquinarias-y-herramientas-de-cultivo-8-728.jpg?cb=1305441434" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Avinadora</h5>
+                                  
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://www.silosdelcinca.com/wp-content/uploads/hoz-300x159.jpg" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">OZ</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://www.revista.ferrepat.com/wp-content/uploads/2016/03/HYD2016-1.jpg" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Fumigadora</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://www.deere.com.mx/assets/images/region-3/products/harvesters/thumb_grainharvester_group_page_large_8e2a8ab60ec82878a7a24ea2b17f4e2df4220973.png" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                        <center>
+                                    <h5 class="card-title"> Trilladora</h5>
+                                        <center>
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                </div>
+
+                                <center> <h4 class="font-italic mb-4">Herbicidas</h4><center>
+                        <div class="card-deck">
+                                <div class="card">
+                                    <img class="card-img-top" src="https://www.disagro.com/sites/default/files/imagen_producto/disagro-ppc_agente-36-sl_0.png" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Agente 36</h5>
+                                  
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://m.media-amazon.com/images/I/71T4ikxw2-L._AC_SX425_.jpg" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Surfactant</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e6ZKB2cwXZwnAJ0pZgym7tf9THoSe4i59w&usqp=CAU" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Herbicida C</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Comprar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                        </div>
+                                 
+        
+    </div>
+                    
+</body>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js'></script>
     <script src="./js/panel.js?v=<?= time(); ?>"></script>

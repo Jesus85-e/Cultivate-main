@@ -150,41 +150,9 @@
         </div>
     </nav>
     <section class="py-5 header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2" >
-                <!-- Tabs nav -->
-                <div class="nav flex-column nav-pills nav-pills-custom" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                   
-                    <a class="nav-link mb-3 p-3  data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" style="background-color:  #fbfbe5 ;">
-                        <i class="fa fa-user-circle-o mr-2"></i>
-                        <span class="font-weight-bold small text-uppercase" >Semillas o fruto</span></a>
-                    <a class="nav-link mb-3 p-3 shadow active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" style="background-color:  #fbfbe5 ;">
-                        <i class="fa fa-user-circle-o mr-2"></i>
-                        <span class="font-weight-bold small text-uppercase">Frijol</span></a>
-
-                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false" style="background-color:  #fbfbe5 ;">
-                        <i class="fa fa-calendar-minus-o mr-2"></i>
-                        <span class="font-weight-bold small text-uppercase">Trigo</span></a>
-
-                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="background-color:  #fbfbe5 ;">
-                       
-                        <span class="font-weight-bold small text-uppercase">Chiles</span></a>
-
-                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="background-color:  #fbfbe5 ;">
-                        
-                        <span class="font-weight-bold small text-uppercase">Sevada</span></a>
-                    </div>
-            </div>
-
-
-            <div class="col-md-9">
-                <!-- Tabs content -->
-                <div class="tab-content" id="v-pills-tabContent">
-                    <div class="tab-pane fade shadow rounded bg-white show active p-5" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                        <h4 class="font-italic mb-4">CURSOS FRIJOL</h4>
+    <div class=container>
                         <div class="card-deck">
-                                <div class="card">
+                        <div class="card">
                                     <img class="card-img-top" src="./img/Frijol/Curso1.jpg" alt="Card image cap">
                                     <div class="card-body">
                                     <h5 class="card-title">CARACTERÍSTICAS FÍSICAS Y DE GERMINACIÓN EN SEMILLAS Y
@@ -197,102 +165,6 @@ PLÁNTULAS DE FRIJOL</h5>
                                         <a href="https://drive.google.com/file/d/1zN14-jxWtZQzhm_cBVmuO8-LunwNPJcR/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
                                         <center>
                                     </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/Frijol/curso2.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">MANEJO Y TRATAMIENTO DE SEMILLA DE FRIJOL</h5>
-                            
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1vBI8WGN1x3ow5ebJOoneNXR7E0v8TbY3/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/Frijol/Curso3.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                        <center>
-                                    <h5 class="card-title">CULTIVO DE FRIJOL BASICO PASO A PASO</h5>
-                                        <center>
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1vjAVyjjq2FYdURKmmwJ3hzv1K6qJTWVY/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                </div>
-                    </div>
-                    
-                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                        <h4 class="font-italic mb-4">Trigo</h4>
-                        <div class="card-deck">
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/Curso1.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">MANUEAL DE RECOMENDACIONES PARA EL CULTIVO DEL TRIGO</h5>
-                                    
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1xY8y3p2hDma_FFXgRUUb-1y-H7vdlO_9/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/curso2.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">RESULTADOS DE CULTIVO DE TRIGO</h5>
-                                    <p class="card-text">
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1UT9zg3ot-jTTSNQocvMwDkf58PKXGokf/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/curso5.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">MANUAL DE TRIGO IPNI</h5>
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="./img//trigo//Resumen-Manual-Trigo-IPNI.pdf" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                </div>
-                    </div>
-                    
-                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                        <h4 class="font-italic mb-4">Chile</h4>
-                        <div class="card-deck">
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/Chile/Curso1.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">SELECCIÓN Y CONSERVACION DE SEMILLA DE CHILE</h5>
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1XyXK2jGoouFyVBYI7ep-0E6QOSuU4dh-/view?usp=sharing" class="btn btn-primary btn-sm">Descargas</a>
-                                        <center>
-
-                                        </small>
                                     </div>
                                 </div>
                                 <div class="card">
@@ -324,57 +196,6 @@ PLÁNTULAS DE FRIJOL</h5>
                                     </div>
                                 </div>
                                 </div>
-                    </div>
-                    
-                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                        <h4 class="font-italic mb-4">Sevada</h4>
-                        <div class="card-deck">
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso1.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">PLANEACION AGRICOLA NACIONAL</h5>
-                                    
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1El8IOmCa45rVagUnmVSQLS8fSQDNoFFV/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso2.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">MANEJO DE CULTIVO SEBADA</h5>
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1H2t2917luip2yLMJSgvMwGpyXOGld4rS/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso3.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">RENDIMIENTO Y CALIDAD DE LA SEMILLA DE CEBADA</h5>
-                                
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1LcgtxQOyHTr3TpxXZPqWpdwjIY-0CBd_/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 

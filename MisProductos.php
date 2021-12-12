@@ -152,28 +152,33 @@
 
     <section class="py-5 header">
         <div class=container>
-            
+        
         </div>
     <div class="container">
         <div class="row">
             <div class="col-md-2" >
                 <!-- Tabs nav -->
                 <div class="nav flex-column nav-pills nav-pills-custom" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                   
+               
+        
+                
                     <a class="nav-link mb-3 p-3  data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" style="background-color:  #fbfbe5 ;">
-                        <i class="fa fa-user-circle-o mr-2"></i>
-                        <span class="font-weight-bold small text-uppercase">PRODUCTOS</span></a>
+                        <!-- Button trigger modal -->
+                        <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModal">
+                        Agregar Producto
+                        </button>
+                       </a>
                     <a class="nav-link mb-3 p-3 shadow active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" style="background-color:  #fbfbe5 ;">
                         <i class="fa fa-user-circle-o mr-2"></i>
                         <span class="font-weight-bold small text-uppercase">Herramientas</span></a>
 
                     <a class="nav-link mb-3 p-3 shadow" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false" style="background-color:  #fbfbe5 ;">
                         <i class="fa fa-calendar-minus-o mr-2"></i>
-                        <span class="font-weight-bold small text-uppercase">Insecticidas para cultivo</span></a>
+                        <span class="font-weight-bold small text-uppercase">Herbicidas</span></a>
 
                     <a class="nav-link mb-3 p-3 shadow" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="background-color:  #fbfbe5 ;">
                        
-                        <span class="font-weight-bold small text-uppercase">Herbicidas</span></a>
+                        <span class="font-weight-bold small text-uppercase">Incectisidas</span></a>
 
                     <a class="nav-link mb-3 p-3 shadow" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="background-color:  #fbfbe5 ;">
                         
@@ -186,48 +191,61 @@
                 <!-- Tabs content -->
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade shadow rounded bg-white show active p-5" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                        <h4 class="font-italic mb-4">CURSOS FRIJOL</h4>
+                       <center> <h4 class="font-italic mb-4">Herramientas</h4><center>
                         <div class="card-deck">
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/Frijol/Curso1.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://image.slidesharecdn.com/tema2-110515055424-phpapp01/95/maquinarias-y-herramientas-de-cultivo-8-728.jpg?cb=1305441434" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">CARACTERÍSTICAS FÍSICAS Y DE GERMINACIÓN EN SEMILLAS Y
-PLÁNTULAS DE FRIJOL</h5>
+                                    <h5 class="card-title">Avinadora</h5>
                                   
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1zN14-jxWtZQzhm_cBVmuO8-LunwNPJcR/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/Frijol/curso2.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://www.silosdelcinca.com/wp-content/uploads/hoz-300x159.jpg" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">MANEJO Y TRATAMIENTO DE SEMILLA DE FRIJOL</h5>
+                                    <h5 class="card-title">OZ</h5>
                             
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1vBI8WGN1x3ow5ebJOoneNXR7E0v8TbY3/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/Frijol/Curso3.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://www.revista.ferrepat.com/wp-content/uploads/2016/03/HYD2016-1.jpg" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Fumigadora</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://www.deere.com.mx/assets/images/region-3/products/harvesters/thumb_grainharvester_group_page_large_8e2a8ab60ec82878a7a24ea2b17f4e2df4220973.png" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
                                         <center>
-                                    <h5 class="card-title">CULTIVO DE FRIJOL BASICO PASO A PASO</h5>
+                                    <h5 class="card-title"> Trilladora</h5>
                                         <center>
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1vjAVyjjq2FYdURKmmwJ3hzv1K6qJTWVY/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
@@ -236,93 +254,110 @@ PLÁNTULAS DE FRIJOL</h5>
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                        <h4 class="font-italic mb-4">Trigo</h4>
+                    <center> <h4 class="font-italic mb-4">Herbicidas</h4><center>
                         <div class="card-deck">
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/Curso1.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://www.disagro.com/sites/default/files/imagen_producto/disagro-ppc_agente-36-sl_0.png" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">MANUEAL DE RECOMENDACIONES PARA EL CULTIVO DEL TRIGO</h5>
-                                    
+                                    <h5 class="card-title">Agente 36</h5>
+                                  
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1xY8y3p2hDma_FFXgRUUb-1y-H7vdlO_9/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/curso2.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://m.media-amazon.com/images/I/71T4ikxw2-L._AC_SX425_.jpg" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">RESULTADOS DE CULTIVO DE TRIGO</h5>
-                                    <p class="card-text">
+                                    <h5 class="card-title">Surfactant</h5>
+                            
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1UT9zg3ot-jTTSNQocvMwDkf58PKXGokf/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/trigo/curso5.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e6ZKB2cwXZwnAJ0pZgym7tf9THoSe4i59w&usqp=CAU" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">MANUAL DE TRIGO IPNI</h5>
+                                    <h5 class="card-title">Herbicida C</h5>
+                            
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="./img//trigo//Resumen-Manual-Trigo-IPNI.pdf" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
-                                </div>
+                        </div>
+                                 
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                        <h4 class="font-italic mb-4">Chile</h4>
+                    <center> <h4 class="font-italic mb-4">Incectisidas</h4><center>
                         <div class="card-deck">
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/Chile/Curso1.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://www.precisagro.com/sites/default/files/imagen_producto/bazuka.png" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">SELECCIÓN Y CONSERVACION DE SEMILLA DE CHILE</h5>
+                                    <h5 class="card-title">Bazuka</h5>
+                                  
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1XyXK2jGoouFyVBYI7ep-0E6QOSuU4dh-/view?usp=sharing" class="btn btn-primary btn-sm">Descargas</a>
-                                        <center>
-
-                                        </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img//Chile//curso4.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">FACTORES DE CALIDAD DE LA SEMILLA DE CHILE SILVESTRE</h5>
-                                   
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1_ILGmOwL2pW1T8e2DdIX_nPzg81kdXAw/view?usp=sharing" class="btn btn-primary btn-sm">Descargas</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <img class="card-img-top" src="./img/Chile/curso3.jpg" alt="Card image cap">
+                                    <img class="card-img-top" src="https://www.phytoma.com/images/Empresas/AFRASA_abanto_210219.png" alt="Card image cap" height="170" width="100">
                                     <div class="card-body">
-                                    <h5 class="card-title">CARACRTERISTICAS DEL FRUTO Y SEMILLA DEL CHILE HUACLE</h5>
-                                    
+                                    <h5 class="card-title">Abanto</h5>
+                            
                                     </div>
                                     <div class="card-footer">
                                     <small class="text-muted">
                                         <center>
-                                        <a href="https://drive.google.com/file/d/1ZiIF2XUHiSVz6ZVJdRaArjGXK5VL_Jl9/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://img.agriexpo.online/es/images_ag/photo-mg/187485-15537318.jpg" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                    <h5 class="card-title">Ortimag</h5>
+                            
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
+                                        <center>
+                                    </small>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <img class="card-img-top" src="https://http2.mlstatic.com/D_NQ_NP_668255-MLA32736755170_112019-O.webp" alt="Card image cap" height="170" width="100">
+                                    <div class="card-body">
+                                        <center>
+                                    <h5 class="card-title"> Agromel M-50</h5>
+                                        <center>
+                                    </div>
+                                    <div class="card-footer">
+                                    <small class="text-muted">
+                                        <center>
+                                        <a href="" class="btn btn-primary btn-sm">Editar</a>
                                         <center>
                                     </small>
                                     </div>
@@ -330,58 +365,69 @@ PLÁNTULAS DE FRIJOL</h5>
                                 </div>
                     </div>
                     
-                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                        <h4 class="font-italic mb-4">Sevada</h4>
-                        <div class="card-deck">
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso1.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">PLANEACION AGRICOLA NACIONAL</h5>
-                                    
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1El8IOmCa45rVagUnmVSQLS8fSQDNoFFV/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso2.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">MANEJO DE CULTIVO SEBADA</h5>
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1H2t2917luip2yLMJSgvMwGpyXOGld4rS/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <img class="card-img-top" src="./img/sevada/curso3.jpg" alt="Card image cap">
-                                    <div class="card-body">
-                                    <h5 class="card-title">RENDIMIENTO Y CALIDAD DE LA SEMILLA DE CEBADA</h5>
-                                
-                                    </div>
-                                    <div class="card-footer">
-                                    <small class="text-muted">
-                                        <center>
-                                        <a href="https://drive.google.com/file/d/1LcgtxQOyHTr3TpxXZPqWpdwjIY-0CBd_/view?usp=sharing" class="btn btn-primary btn-sm">Descargar</a>
-                                        <center>
-                                    </small>
-                                    </div>
-                                </div>
-                                </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>
     </div>
+    <!-- Modal Agregar Producto-->
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Agregar Producto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <form onsubmit="this.reset()">
+                <div class="form-group">
+                    <label for="exampleInputproducto">Ingresa el nombre del producto</label>
+                    <input type="text" class="form-control" id="exampleInputproducto" placeholder="Producto" required>
+                  
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputprecio">Precio</label>
+                    <input type="float" class="form-control" id="exampleInputprecio" placeholder="Precio" required>
+                </div>
+                <form>
+                <div class="form-group">
+                    <label for="exampleFormControlFile1">Escoje tu imagen</label>
+                    <input type="file" class="form-control-file" id="exampleFormControlFile1" required>
+                </div>
+            <center>
+            <select name="tipoproductos" required>
+                <option selected="true" disabled="disabled">Elige una opcion</option>    
+                <option value="1">Herbicida</option> 
+                <option value="2">Insectisida</option> 
+                <option value="3">Herramientas</option>
+            </select>
+            </center>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal2">Guardar Producto</button>
+        </div>
+        </form>
+        </div>
+    </div>
+            </div>
+            <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Agregar Producto</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div> Esta accion esta en mantenimiento gracias por su compresion :)</div>
+                </div>
+            </div>
 </section>
-</body>
+
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js'></script>
     <script src="./js/panel.js?v=<?= time(); ?>"></script>
